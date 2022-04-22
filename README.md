@@ -1,2 +1,2 @@
 # CursoJQuery
-Curso DIO sobre JQuery 
+Curso DIO sobre JQuery.
